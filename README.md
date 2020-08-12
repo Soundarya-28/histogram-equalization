@@ -1,1 +1,1 @@
-# histogram-equalization
+# histogram-equalization.
